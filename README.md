@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="UdeA" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/Escudo-UdeA.svg" hspace="10px" vspace="0px">
+                <img alt="UdeA" height="200px" src="03a04d10cba526ed8783fcaab148d1eb.jpg" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
