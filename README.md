@@ -2,14 +2,14 @@
 <table>
     <thead>
         <tr>
-            <td rowspan="3">
-                <img alt="UdeA" height="200px" src="03a04d10cba526ed8783fcaab148d1eb.jpg" hspace="10px" vspace="0px">
+            <td rowspan="3" style="text-align: center;">
+                <img alt="UdeA" height="200px" src="03a04d10cba526ed8783fcaab148d1eb.jpg" style="display: block; margin: auto;" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
             </td>
-            <td rowspan="3">
-                <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
+            <td rowspan="3" style="text-align: center;">
+                <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" style="display: block; margin: auto;" hspace="0px" vspace="0px">
             </td>
         </tr>
         <tr>
@@ -18,8 +18,8 @@
             </td>
         </tr>
         <tr>
-            <td>
-                <img align="center" alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" hspace="10px" vspace="0px">
+            <td style="text-align: center;">
+                <img align="center" alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" style="display: block; margin: auto;" hspace="10px" vspace="0px">
             </td>
         </tr>
     </thead>
