@@ -1,33 +1,32 @@
 <div align="center">
-<table>
-    <thead>
-        <tr>
-            <td rowspan="3" style="text-align: center;">
-                <img alt="UdeA" height="200px" src="03a04d10cba526ed8783fcaab148d1eb.jpg" style="display: block; margin: auto;" hspace="10px" vspace="0px">
-            </td>
-            <td align="center">
-                <h1><b>Programación y Algoritmia</b></h1>
-            </td>
-            <td rowspan="3" style="text-align: center;">
-                <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" style="display: block; margin: auto;" hspace="0px" vspace="0px">
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <h1><b>Trabajo Final</b></h1>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align: center;">
-                <img align="center" alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" style="display: block; margin: auto;" hspace="10px" vspace="0px">
-            </td>
-        </tr>
-    </thead>
-</table>
-
+    <table>
+        <thead>
+            <tr>
+                <td rowspan="3" style="text-align: center;">
+                    <img alt="UdeA" height="200px" src="03a04d10cba526ed8783fcaab148d1eb.jpg" style="display: block; margin: auto;" hspace="10" vspace="0">
+                </td>
+                <td align="center">
+                    <h1><b>Programación y Algoritmia</b></h1>
+                </td>
+                <td rowspan="3" style="text-align: center;">
+                    <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" style="display: block; margin: auto;" hspace="0" vspace="0">
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <h1><b>Trabajo Final</b></h1>
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center;">
+                    <img alt="I&S" height="135px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/IS.png" style="display: block; margin: auto;" hspace="10" vspace="0">
+                </td>
+            </tr>
+        </thead>
+    </table>
 </div>
 
-<hr size=10 noshade color="green">
+<hr size="10" noshade color="green">
 <p>
 <img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png" align="left" hspace="0px" vspace="0px">
 <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png" align="left" hspace="0px" vspace="0px">
